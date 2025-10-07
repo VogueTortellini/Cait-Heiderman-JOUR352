@@ -65,3 +65,7 @@ li{
 #description{ /*was p*/
     margin: 10px 0px 10px 0px; /*margin for p*/
 }
+
+#menu{
+    text-align: inline; /*aligns contact info horizontally*/
+}
