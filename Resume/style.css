@@ -67,5 +67,8 @@ li{
 }
 
 #menu{
-    text-align: inline; /*aligns contact info horizontally*/
+    margin: 0px 0px 0px 0px; /*margin for contact info*/
+    padding: 0px 0px 0px 0px; /*padding for contact info*/
+    text-align: center; /*aligns contact info horizontally*/
+    display: inline; /*displays contact info inline*/
 }
