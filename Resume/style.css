@@ -30,3 +30,18 @@ h3{
     font-weight: 600; /*font weight*/
     font-size: 1.5em; /*font size for job titles*/
 }
+
+h4{
+    font-weight: 400; /*font weight*/
+    font-size: 1.5em; /*font size for organizations*/
+}
+
+h5{
+    font-weight: 400; /*font weight*/
+    font-style: italic; /*italics for dates*/
+    font-size: 1em; /*font size for dates*/
+}
+
+li{
+    font-size: 1em; /*font size for info, skills and education*/
+}
