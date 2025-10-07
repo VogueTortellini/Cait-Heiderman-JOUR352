@@ -14,8 +14,8 @@ body, h1, h2, h3, h4, h5, p, li, ul li{ /*list of elements to style*/
     text-transform: uppercase; /*makes name all uppercase*/
     text-align: center; /*centers my name*/
     border-bottom: 1px solid #33485e; /*border below my name*/
-    width: 60%, 300px; /*width of border*/
-    margin: 0 auto; /*centers border*/
+    border-bottom-width: 60%, 300px; /*width of border*/
+    margin-bottom: 0 auto; /*centers border*/
 }
 
 /*styles for my title on resume*/
