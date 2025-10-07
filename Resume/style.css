@@ -61,3 +61,7 @@ strong{
 li{
     font-size: 1em; /*font size for info, skills and education*/
 }
+
+#description{ /*was p*/
+    margin: 10px 0px 10px 0px; /*margin for p*/
+}
