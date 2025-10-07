@@ -1,3 +1,4 @@
+
 body, h1, h2, h3, h4, h5, p, li, ul li{ /*list of elements to style*/
     font-family: "Open Sans", Arial, sans-serif; /*font families*/
     font-size: 1em; /*font size*/
@@ -13,8 +14,8 @@ h1{
 }
 
 strong{
-    text-transform: uppercase;
-    font-size: 1.5em;
+    text-transform: uppercase; /*makes title uppercase*/
+    font-size: 1.5em; /*font size for title*/
     color: #33485e; /* font color is blue*/
 }
 
