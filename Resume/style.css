@@ -12,4 +12,8 @@ h1{
 
 }
 
-/*
+strong{
+    text-transform: uppercase;
+    font-size: 1.5em;
+    color: #33485e; /* font color is blue*/
+}
