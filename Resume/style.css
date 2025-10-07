@@ -17,3 +17,10 @@ strong{
     font-size: 1.5em;
     color: #33485e; /* font color is blue*/
 }
+
+h2{
+    font-size: 1.5em; /*font size for section headers*/
+    text-transform: uppercase; /*section headers are uppercase*/
+    background-color: #33485e; /*background color is blue*/
+    color: white; /* font color is white */
+}
