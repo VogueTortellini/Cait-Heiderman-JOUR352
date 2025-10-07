@@ -1,10 +1,13 @@
+/*styles for my resume*/
 
+/*declaring font family, size and color for my resume*/
 body, h1, h2, h3, h4, h5, p, li, ul li{ /*list of elements to style*/
     font-family: "Open Sans", Arial, sans-serif; /*font families*/
     font-size: 1em; /*font size*/
-    color: #444; /*gray*/
+    color: #444; /*gray color*/
 }
 
+/*styles for my namme on resume*/
 h1{
     font-size: 3em; /*font size for my name*/
     color: #33485e; /* font color is blue*/
@@ -13,12 +16,14 @@ h1{
 
 }
 
+/*styles for my title on resume*/
 strong{
     text-transform: uppercase; /*makes title uppercase*/
     font-size: 1.5em; /*font size for title*/
     color: #33485e; /* font color is blue*/
 }
 
+/*styles for my section headers on resume*/
 h2{
     font-size: 1.5em; /*font size for section headers*/
     text-transform: uppercase; /*section headers are uppercase*/
@@ -27,22 +32,26 @@ h2{
     font-weight: 400; /*font weight*/
 }
 
+/*styles for my job titles on resume*/
 h3{
     font-weight: 600; /*font weight*/
     font-size: 1.5em; /*font size for job titles*/
 }
 
+/*styles for organizations on resume*/
 h4{
     font-weight: 400; /*font weight*/
     font-size: 1.5em; /*font size for organizations*/
 }
 
+/*styles for dates on resume*/
 h5{
     font-weight: 400; /*font weight*/
     font-style: italic; /*italics for dates*/
     font-size: 1em; /*font size for dates*/
 }
 
+/*styles for info, skills and education on resume*/
 li{
     font-size: 1em; /*font size for info, skills and education*/
 }
