@@ -72,3 +72,24 @@ li{
     text-align: center; /*aligns contact info horizontally*/
     display: inline-block; /*displays contact info inline*/
 }
+
+#degrees {
+    margin: 5px 0px 0px 0px; /*margin for degrees*/
+}
+
+#do {
+    margin: 5px 0px 0px 0px; /*margin for skills*/
+}
+
+#title {
+    font-weight: 600; /*font weight and centers title*/
+    text-align: center; /*centers title*/
+    margin: 20px 0px 0px 0px; /*margin around title*/
+}
+
+#top {
+    width: 60%; /*width of top section*/
+    min-width: 300px; /*minimum width of top section*/
+    margin: 0 auto; /*centers top section*/
+    margin-bottom: 30px; /*margin below top section*/
+}
