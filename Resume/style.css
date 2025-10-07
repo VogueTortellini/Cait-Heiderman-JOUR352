@@ -40,15 +40,15 @@ strong{
 }
 
 /*styles for my job titles on resume*/
-h3{
+#jobtitle{ /*was h3*/
     font-weight: 600; /*font weight*/
     font-size: 1.5em; /*font size for job titles*/
 }
 
 /*styles for organizations on resume*/
-h4{
+#organization{ /*was h4*/
     font-weight: 400; /*font weight*/
-    font-size: 1.5em; /*font size for organizations*/
+    font-size: 1.25em; /*font size for organizations, changed from 1.5em*/
 }
 
 /*styles for dates on resume*/
