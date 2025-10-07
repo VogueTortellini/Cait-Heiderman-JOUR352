@@ -32,11 +32,9 @@ strong{
     background-color: #33485e; /*background color is blue*/
     color: white; /* font color is white */
     font-weight: 400; /*font weight*/
-    margin-bottom: 10px;
-    margin-top: 20px;
-    margin-right: 0px;
-    margin-left: 0px;
-    width: 70%, 300px; /*width of sectionheader*/
+    margin: 20px 0 10px 0; /*margin around section headers*/
+    width: 70%; /*width of sectionheader*/
+    min-width: 300px; /*minimum width of sectionheader*/
 }
 
 /*styles for my job titles on resume*/
