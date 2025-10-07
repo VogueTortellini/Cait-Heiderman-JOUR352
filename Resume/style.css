@@ -7,8 +7,8 @@ body, h1, h2, h3, h4, h5, p, li, ul li{ /*list of elements to style*/
     color: #444; /*gray color*/
 }
 
-/*styles for my namme on resume*/
-h1{
+/*styles for my name on resume*/
+#name {
     font-size: 3em; /*font size for my name*/
     color: #33485e; /* font color is blue*/
     text-transform: uppercase; /*makes name all uppercase*/
