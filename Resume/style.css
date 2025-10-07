@@ -23,4 +23,5 @@ h2{
     text-transform: uppercase; /*section headers are uppercase*/
     background-color: #33485e; /*background color is blue*/
     color: white; /* font color is white */
+    font-weight: 400; /*font weight*/
 }
