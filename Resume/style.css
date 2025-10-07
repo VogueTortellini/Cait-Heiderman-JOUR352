@@ -50,10 +50,11 @@ strong{
 }
 
 /*styles for dates on resume*/
-h5{
+#date{ /*was h5*/
     font-weight: 400; /*font weight*/
     font-style: italic; /*italics for dates*/
     font-size: 1em; /*font size for dates*/
+    margin: 2px 0px 0px 0px; /*margin around dates*/
 }
 
 /*styles for info, skills and education on resume*/
