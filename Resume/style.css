@@ -70,5 +70,5 @@ li{
     margin: 0px; /*margin for contact info*/
     padding: 0px; /*padding for contact info*/
     text-align: center; /*aligns contact info horizontally*/
-    display: inline; /*displays contact info inline*/
+    display: inline-block; /*displays contact info inline*/
 }
