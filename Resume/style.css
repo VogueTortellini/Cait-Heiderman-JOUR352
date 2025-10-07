@@ -1,0 +1,6 @@
+body, h1, h2, h3, h4, h5, p, li, ul li{ /*list of elements to style*/
+    font-family: "Open Sans", Arial, sans-serif; /*font families*/
+    font-size: 1em; /*font size*/
+    color: #444; /*gray*/
+}
+
