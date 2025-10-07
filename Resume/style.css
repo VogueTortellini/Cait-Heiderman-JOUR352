@@ -71,14 +71,17 @@ li{
     padding: 0px; /*padding for contact info*/
     text-align: center; /*aligns contact info horizontally*/
     display: inline-block; /*displays contact info inline*/
+    font-size: 1em; /*font size for info, skills and education*/
 }
 
 #degrees {
     margin: 5px 0px 0px 0px; /*margin for degrees*/
+    font-size: 1em; /*font size for info, skills and education*/
 }
 
 #do {
     margin: 5px 0px 0px 0px; /*margin for skills*/
+    font-size: 1em; /*font size for info, skills and education*/
 }
 
 #title {
@@ -91,6 +94,12 @@ li{
     width: 60%; /*width of top section*/
     min-width: 300px; /*minimum width of top section*/
     margin: 0 auto; /*centers top section*/
-    margin:auto; /*centers top section*/
     margin-bottom: 30px; /*margin below top section*/
+}
+
+#container {
+    width: 100%; /*width of container*/
+    max-width: 1200px; /*maximum width of container*/
+    margin: 0 auto; /*centers container*/
+    padding: 50px; /*padding around container*/
 }
