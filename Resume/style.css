@@ -91,5 +91,6 @@ li{
     width: 60%; /*width of top section*/
     min-width: 300px; /*minimum width of top section*/
     margin: 0 auto; /*centers top section*/
+    margin:auto; /*centers top section*/
     margin-bottom: 30px; /*margin below top section*/
 }
