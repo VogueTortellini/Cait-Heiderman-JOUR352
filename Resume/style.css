@@ -9,7 +9,7 @@ body, h1, h2, h3, h4, h5, p, li, ul li { /*list of elements to style*/
 
 /*styles for my name on resume*/
 #name { /*was h1*/
-    font-size: 2em; /*font size for my name*/
+    font-size: 3em; /*font size for my name*/
     color: #33485e; /* font color is blue*/
     text-transform: uppercase; /*makes name all uppercase*/
     text-align: center; /*centers my name*/
