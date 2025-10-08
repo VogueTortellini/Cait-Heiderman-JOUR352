@@ -29,7 +29,7 @@ strong {
 .sectionheader { /*was h2*/
     font-size: 1.5em; /*font size for section headers*/
     text-transform: uppercase; /*section headers are uppercase*/
-    background-color: #33485e; /*background color is blue*/
+    background-color: #183350; /*background color is blue*/
     color: white; /* font color is white */
     font-weight: 400; /*font weight*/
     margin: 20px 0 10px 0; /*margin around section headers*/
