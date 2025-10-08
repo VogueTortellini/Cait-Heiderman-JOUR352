@@ -8,7 +8,7 @@ body, h1, h2, h3, h4, h5, p, li, ul li { /*list of elements to style*/
 }
 
 /*styles for my name on resume*/
-#name { /*was h1*/
+#name { 
     font-size: 3em; /*font size for my name*/
     color: #33485e; /* font color is blue*/
     text-transform: uppercase; /*makes name all uppercase*/
@@ -26,7 +26,7 @@ strong {
 }
 
 /*styles for my section headers on resume*/
-.sectionheader { /*was h2*/
+.sectionheader { 
     font-size: 1.5em; /*font size for section headers*/
     text-transform: uppercase; /*section headers are uppercase*/
     background-color: #33485e; /*background color is blue*/
@@ -38,19 +38,19 @@ strong {
 }
 
 /*styles for my job titles on resume*/
-.jobtitle { /*was h3*/
+.jobtitle { 
     font-weight: 600; /*font weight*/
     font-size: 1.5em; /*font size for job titles*/
 }
 
 /*styles for organizations on resume*/
-#organization { /*was h4*/
+#organization { 
     font-weight: 400; /*font weight*/
     font-size: 1.25em; /*font size for organizations, changed from 1.5em*/
 }
 
 /*styles for dates on resume*/
-#date { /*was h5*/
+#date {
     font-weight: 400; /*font weight*/
     font-style: italic; /*italics for dates*/
     font-size: 1em; /*font size for dates*/
@@ -61,7 +61,7 @@ strong {
 li{
     font-size: 1em; /*font size for info, skills and education*/
 }
-.description { /*was p*/
+.description { 
     margin: 10px 0px 10px 0px; /*margin for p*/
 }
 
