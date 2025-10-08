@@ -61,12 +61,11 @@ strong {
 li{
     font-size: 1em; /*font size for info, skills and education*/
 }
-
-#description { /*was p*/
+.description { /*was p*/
     margin: 10px 0px 10px 0px; /*margin for p*/
 }
 
-#menu {
+.menu {
     margin: 0px; /*margin for contact info*/
     padding: 0px; /*padding for contact info*/
     text-align: center; /*aligns contact info horizontally*/
