@@ -38,7 +38,7 @@ strong {
 }
 
 /*styles for my job titles on resume*/
-#jobtitle { /*was h3*/
+.jobtitle { /*was h3*/
     font-weight: 600; /*font weight*/
     font-size: 1.5em; /*font size for job titles*/
 }
