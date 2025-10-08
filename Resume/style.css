@@ -66,12 +66,12 @@ li{
 }
 
 .menu {
-    display: inline; /*displays contact info inline*/
-    list-style-type: none; /*removes bullet points from contact info*/
     margin: 0px; /*margin for contact info*/
     padding: 0px; /*padding for contact info*/
     text-align: center; /*aligns contact info horizontally*/
     font-size: 1em; /*font size for info, skills and education*/
+    display: inline; /*displays contact info inline*/
+    list-style-type: none; /*removes bullet points from contact info*/
 }
 
 #degrees {
