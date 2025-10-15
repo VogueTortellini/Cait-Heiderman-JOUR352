@@ -1,7 +1,9 @@
+/*aligning items to center*/
 .container{
     align-items: center;
 }
 
+/*bootstrap icons*/
 .bi-book{
     font-size: 3em;
 }
@@ -14,12 +16,13 @@
     font-size: 3em;
 }
 
-.special-elite-regular, h1, h2, h3, .navbar-brand, .btn{
+.special-elite-regular, h1, h2, h3, .navbar-brand, .btn{ /* note: having trouble getting the buttons to change font-family*/
   font-family: "Special Elite", system-ui;
   font-weight: 400;
   font-style: normal;
 }
 
+/*adding padding*/
 .row{
     padding-bottom: 50px;
 }
