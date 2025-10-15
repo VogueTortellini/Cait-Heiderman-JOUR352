@@ -1,4 +1,7 @@
-h1, h2, h3, .navbar-brand, .btn{
-    font-family: special-elite;
+
+h1, h2, h3, .navbar-brand, .btn {
+  font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 
