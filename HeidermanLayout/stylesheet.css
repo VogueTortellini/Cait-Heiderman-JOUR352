@@ -1,7 +1,7 @@
 #content {
     margin: 0 auto;
     width: 900px;
-    font-family:'Times New Roman', Times, serif
+    font-family:'Times New Roman', Times, serif, sans-serif; /*font family*/
 }
 
 .masthead {
