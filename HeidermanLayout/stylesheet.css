@@ -7,7 +7,6 @@
 .masthead {
     font-size: 1.5 em; /*masthead font size*/
     font-family:'Times New Roman', Times, serif; /*masthead font*/
-    font-weight: 400; /*masthead font weight*/
     color: white; /*white masthead text*/
     background-color: green; /*green masthead background*/
     text-align: center; /*center masthead text*/
