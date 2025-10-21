@@ -1,4 +1,13 @@
 #content {
     margin: 0 auto;
     width: 900px;
+    font-family:'Times New Roman', Times, serif
+}
+
+#masthead {
+    font-size: 48px;
+    font-family:'Times New Roman', Times, serif
+    color: black;
+    background-color: blue;
+
 }
