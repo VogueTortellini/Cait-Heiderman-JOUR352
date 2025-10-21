@@ -5,7 +5,7 @@
 }
 
 .masthead {
-    font-size: 1.5 em; /*masthead font size*/
+    font-size: 64px; /*masthead font size*/
     color: white; /*white masthead text*/
     background-color: green; /*green masthead background*/
     text-align: center; /*center masthead text*/
