@@ -4,13 +4,3 @@
     font-family:'Times New Roman', Times, serif, sans-serif; /*font family*/
 }
 
-.masthead {
-    font-size: 64px; /*masthead font size*/
-    color: white; /*white masthead text*/
-    background-color: green; /*green masthead background*/
-    text-align: center; /*center masthead text*/
-    text-transform: uppercase; /*masthead is uppercase*/
-    margin: 20px 0 20px 0; /*masthead margin*/
-    width: 100%; /*masthead width*/
-    min-width: 300px; /*masthead minimum width*/
-}
