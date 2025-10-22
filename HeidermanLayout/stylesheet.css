@@ -49,3 +49,14 @@ font-style: italic;
     font-weight: bold;
     font-size: 14px;
 }
+
+blockquote{
+    font: 16px;
+    font-style: italic;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: blue;
+    margin-left: 50px;
+    padding-left: 15px;
+    border-left: 4px solid #ccc;
+}
