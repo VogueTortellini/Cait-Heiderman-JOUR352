@@ -15,12 +15,16 @@
 }
 
 #subhead{
+    margin: 0 auto;
+    width: 900px;
     font-size: 20px;
     margin-bottom: 20px;
 }
 
 
 #byline {
+ margin: 0 auto;
+ width: 900px;
 font-family: Helvetica, sans-serif;
 font-size: 14px;
 font-style: italic;
