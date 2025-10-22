@@ -22,10 +22,14 @@
 
 
 #byline {
+margin: 0 auto;
+width: 900px;
 font-family: Helvetica, sans-serif;
 font-size: 14px;
 font-style: italic;
 }
+
+
 
 .caption{
     font-size: 10px;
