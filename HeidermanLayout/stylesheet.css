@@ -5,6 +5,7 @@
 }
 
 .headline{
+    margin: 0 auto;
     font-size: 42px;
     font-weight: bold;
     margin-bottom: 10px;
