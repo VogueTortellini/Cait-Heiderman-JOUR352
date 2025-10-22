@@ -43,7 +43,7 @@ font-style: italic;
     font-size: 14px;
 }
 
-blockquote{
+.blockquote{
     font: 48px;
     font-style: italic;
     margin-top: 15px;
