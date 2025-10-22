@@ -6,8 +6,6 @@
 }
 
 #headline{
-    margin: 0 auto;
-    width: 900px;
     font-style: Helvetica, sans-serif;
     font-size: 42px;
     font-weight: bold;
@@ -15,16 +13,12 @@
 }
 
 #subhead{
-    margin: 0 auto;
-    width: 900px;
     font-size: 20px;
     margin-bottom: 20px;
 }
 
 
 #byline {
- margin: 0 auto;
- width: 900px;
 font-family: Helvetica, sans-serif;
 font-size: 14px;
 font-style: italic;
@@ -32,16 +26,12 @@ font-style: italic;
 
 
 .caption{
-    margin: 0 auto;
-    width: 900px;
     font-size: 10px;
     color: gray;
     margin-bottom: 20px;
 }
 
 .credit{
-    margin: 0 auto;
-    width: 900px;
     font-size: 10px;
     font-style: italic;
     color: gray;
