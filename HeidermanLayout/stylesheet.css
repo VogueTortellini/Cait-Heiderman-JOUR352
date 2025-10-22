@@ -32,12 +32,16 @@ font-style: italic;
 
 
 .caption{
+    margin: 0 auto;
+    width: 900px;
     font-size: 10px;
     color: gray;
     margin-bottom: 20px;
 }
 
 .credit{
+    margin: 0 auto;
+    width: 900px;
     font-size: 10px;
     font-style: italic;
     color: gray;
