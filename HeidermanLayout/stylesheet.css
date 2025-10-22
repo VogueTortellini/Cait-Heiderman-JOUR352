@@ -1,49 +1,49 @@
-#content {
+#content { /*body style*/
     margin: 0 auto;
     width: 900px;
     font-family:'Times New Roman', Times, serif, sans-serif; /*font family*/
     font-size: 13px;
 }
 
-#headline{
+#headline{ /*headline*/
     font-style: Helvetica, sans-serif;
     font-size: 42px;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
-#subhead{
+#subhead{ /*subheadings*/
     font-size: 20px;
     margin-bottom: 20px;
 }
 
 
-#byline {
+#byline { /*byline*/
 font-family: Helvetica, sans-serif;
 font-size: 14px;
 font-style: italic;
 }
 
 
-.caption{
+.caption{ /*photo caption*/
     font-size: 10px;
     color: gray;
     margin-bottom: 20px;
 }
 
-.credit{
+.credit{ /*photo credit*/
     font-size: 10px;
     font-style: italic;
     color: gray;
     margin-bottom: 20px;
 }
 
-.section{
+.section{ /*section name*/
     font-weight: bold;
     font-size: 14px;
 }
 
-.blockquote{
+.blockquote{ /*blockquote*/
     font: 48px;
     font-style: italic;
     margin-top: 15px;
