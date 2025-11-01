@@ -44,8 +44,8 @@
 .Blockquote{
     font-family: Georgia, Helvetica;
     font-size: 36px;
-    color: rgb(2, 74, 2);
+    color: white;
     text-align: center;
     text-transform: uppercase;
-    background-color: peachpuff;
+    background-color: rgb(2, 74, 2);
 }
