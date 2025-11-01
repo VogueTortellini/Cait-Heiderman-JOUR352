@@ -27,3 +27,9 @@
     font-family: Helvetica, Arial, sans-serif;
     font-size: 12px;
 }
+
+.caption{
+    font-family: Georgia, Helvetica;
+    font-size: 10px;
+    color: grey;
+}
