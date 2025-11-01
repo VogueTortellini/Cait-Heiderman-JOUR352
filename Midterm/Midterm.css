@@ -40,3 +40,10 @@
     color: Grey;
     text-align: center;
 }
+
+.Blockquote{
+    font-family: Georgia, Helvetica;
+    font-size: 36px;
+    color: green;
+    text-align: center;
+}
