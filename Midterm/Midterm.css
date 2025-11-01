@@ -2,3 +2,21 @@
     margin: 0 auto;
     width: 900px;
 }
+
+#headline{
+    font-family: Helvetica;
+}
+
+#subhead1{
+    font-family: Helvetica;
+}
+
+#subhead2{
+    font-family: Helvetica;
+}
+
+
+.maintext{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
