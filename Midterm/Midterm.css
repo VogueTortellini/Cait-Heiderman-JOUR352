@@ -1,13 +1,17 @@
+/* I did this Midterm myself */
+
 #content{
     margin: 0 auto;
     width: 900px;
 }
 
+/* Headline */
 #headline{
     font-family: Georgia, Helvetica;
     font-size: 36px;
 }
 
+/* Subheads */
 #subhead1{
     font-family: Georgia, Helvetica;
     font-size: 20px;
@@ -18,22 +22,26 @@
     font-size: 20px;
 }
 
+/* Byline */
 #bylinedate{
     font-family: Georgia, Helvetica;
     font-size: 14px;
 }
 
+/* Body */
 .maintext{
     font-family: Helvetica, Arial, sans-serif;
     font-size: 12px;
 }
 
+/* Photo Captions */
 .caption{
     font-family: Georgia, Helvetica;
     font-size: 10px;
     color: rgb(2, 74, 2);
 }
 
+/* Related Links */
 #links{
     font-family: Georgia, Helvetica;
     font-size: 16px;
@@ -41,6 +49,7 @@
     text-align: center;
 }
 
+/* Blockquote */
 .Blockquote{
     font-family: Georgia, Helvetica;
     font-size: 40px;
