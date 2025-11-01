@@ -5,16 +5,23 @@
 
 #headline{
     font-family: Georgia, Helvetica;
+    font-size: 48px;
 }
 
 #subhead1{
     font-family: Georgia, Helvetica;
+    font-size: 24px;
 }
 
 #subhead2{
     font-family: Georgia, Helvetica;
+    font-size: 24px;
 }
 
+#bylinedate{
+    font-family: Georgia, Helvetica;
+    font-size: 18px;
+}
 
 .maintext{
     font-family: Helvetica, Arial, sans-serif;
