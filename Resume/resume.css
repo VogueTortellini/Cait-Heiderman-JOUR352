@@ -2,3 +2,9 @@
     align-items: center;
 }
 
+.ABOUTME{
+     border-bottom: 1px solid #33485e; /*border below my name*/
+    border-width: 60%, 300px; /*width of border*/
+    margin-bottom: 0 auto; /*centers border*/
+
+}
