@@ -13,6 +13,7 @@
     margin: 20px 0 10px 0; /*margin around section headers*/
     width: 100%; /*width of sectionheader*/
     min-width: 300px; /*minimum width of sectionheader*/
+    text-align: center;
 }
 
 .jobtitle{
