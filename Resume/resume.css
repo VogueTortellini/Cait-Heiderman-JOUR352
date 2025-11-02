@@ -1,48 +1,59 @@
+/*I made this project myself*/
+
 .container{
     align-items: center;
 }
 
+/*Resume Topper*/
 .topper{
     font-family: Georgia, Helvetica;
     background-color: navy;
 }
 
+/*1st column*/
 .first{
     color: white;
     background-color: navy;
 }
 
+/*2nd column*/
 .second{
     color: navy;
     background-color: white;
 }
 
+/*Section header*/
 .sectionheader{
     font-family: Georgia, Helvetica;
     background-color: navy;
     color: white;
-    margin: 20px 0 10px 0; /*margin around section headers*/
-    width: 100%; /*width of sectionheader*/
-    min-width: 300px; /*minimum width of sectionheader*/
+    margin: 20px 0 10px 0; 
+    width: 100%; 
+    min-width: 300px; 
     text-align: center;
 }
 
+/*Job title*/
 .jobtitle{
     font-family: Georgia, Helvetica;
 }
 
+/*Organization*/
 .organization{
     font-family: Georgia, Helvetica;
 }
 
+/*Job description*/
 .description{
     font-family: Georgia, Helvetica;
 }
 
+/*Date worked*/
 .date{
     font-family: Georgia, Helvetica;
 }
 
+/*Section header*/
 .sectionhead{
     background-color: white;
     color: navy;
@@ -50,10 +61,12 @@
     text-align: center;
 }
 
+/*My picture*/
 .picture{
     text-align: center;
 }
 
+/*Navbar*/
 .navbar{
     color: navy;
     background-color: white;
