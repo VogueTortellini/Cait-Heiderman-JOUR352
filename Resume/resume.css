@@ -11,6 +11,6 @@
     background-color: black;
     color: white;
     margin: 20px 0 10px 0; /*margin around section headers*/
-    width: 50%; /*width of sectionheader*/
+    width: 100%; /*width of sectionheader*/
     min-width: 300px; /*minimum width of sectionheader*/
 }
