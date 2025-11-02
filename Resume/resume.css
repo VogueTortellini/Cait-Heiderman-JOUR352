@@ -13,7 +13,7 @@
 
 .sectionheader{
     font-family: Georgia, Helvetica;
-    background-color: black;
+    background-color: navy;
     color: white;
     margin: 20px 0 10px 0; /*margin around section headers*/
     width: 100%; /*width of sectionheader*/
@@ -39,7 +39,7 @@
 
 .sectionhead{
     background-color: white;
-    color: black;
+    color: navy;
     font-family: Georgia, Helvetica;
     text-align: center;
 }
