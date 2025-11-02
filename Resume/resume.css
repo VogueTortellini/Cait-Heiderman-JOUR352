@@ -1,3 +1,7 @@
 .container{
     align-items: center;
 }
+
+.row{
+    text-align: left;
+}
