@@ -9,5 +9,6 @@
 .sectionheader{
     font-family: Georgia, Helvetica;
     background-color: black;
-    color: white
+    color: white;
+    border-bottom: 2px green;
 }
