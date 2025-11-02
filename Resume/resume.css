@@ -10,5 +10,7 @@
     font-family: Georgia, Helvetica;
     background-color: black;
     color: white;
-    border-bottom: 2px green;
+    margin: 20px 0 10px 0; /*margin around section headers*/
+    width: 50%; /*width of sectionheader*/
+    min-width: 300px; /*minimum width of sectionheader*/
 }
