@@ -14,3 +14,7 @@
     width: 100%; /*width of sectionheader*/
     min-width: 300px; /*minimum width of sectionheader*/
 }
+
+.jobtitle{
+    font-family: Georgia, Helvetica;
+}
