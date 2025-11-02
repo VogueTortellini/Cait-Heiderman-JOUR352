@@ -5,3 +5,9 @@
 .topper{
     font-family: Georgia, Helvetica;
 }
+
+.h2{
+    border-bottom: 1px solid #2c7dd4; /*border below my name*/
+    border-width: 60%, 300px; /*width of border*/
+    margin-bottom: 0 auto; /*centers border*/
+}
