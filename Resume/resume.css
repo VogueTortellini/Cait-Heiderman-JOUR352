@@ -3,7 +3,5 @@
 }
 
 .ABOUTME{
-     border-bottom: 1px solid white; /*border below my name*/
-    border-width: 60%, 300px; /*width of border*/
-    margin-bottom: 0 auto; /*centers border*/
+     background-color: white;
 }
