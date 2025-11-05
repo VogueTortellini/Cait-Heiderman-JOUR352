@@ -1,0 +1,11 @@
+.caption{
+    font-size: 10 px;
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+    text-align: center;
+}
+
+.card-footer{
+    background-color: black;
+    color: white;
+}
