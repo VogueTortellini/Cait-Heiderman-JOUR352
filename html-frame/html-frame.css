@@ -37,3 +37,10 @@
     font-size: 18px;
     text-align: start;
 }
+
+.Blockquote{
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
