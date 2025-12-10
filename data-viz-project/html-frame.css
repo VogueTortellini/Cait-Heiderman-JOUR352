@@ -60,18 +60,10 @@ img{
     display: block;
 }
 
-.h2{
-        font-family: 'Georgia', 'Times New Roman', Times, serif;
-}
-
-.row{
-        font-family: 'Georgia', 'Times New Roman', Times, serif;
-}
-
-.footer{
-        font-family: 'Georgia', 'Times New Roman', Times, serif;
-}
-
 .text-center{
+            font-family: 'Georgia', 'Times New Roman', Times, serif;
+}
+
+.mt-4{
             font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
