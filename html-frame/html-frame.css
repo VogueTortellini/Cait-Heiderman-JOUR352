@@ -1,3 +1,9 @@
+.container{
+    margin: 0 auto;
+    width: 900px;
+}
+
+
 .caption{
     font-size: 10 px;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
