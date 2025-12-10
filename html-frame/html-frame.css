@@ -1,6 +1,6 @@
-.container{
+.narrow{
     margin: 0 auto;
-    width: 800px;
+    max-width: 800px;
 }
 
 
