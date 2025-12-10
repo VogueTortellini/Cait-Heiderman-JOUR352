@@ -43,6 +43,7 @@
     text-align: center;
     color: hotpink;
     font-weight: bold;
+    background-color: black; margin: 20px 0px; padding: 10px;
 }
 
 .navbar{
